@@ -8,6 +8,8 @@ Trying make models, textures and scenes.
 But also a cultureman with some acculturation from different jokeside.
 
 ##### Social media:
-[Reddit.](https://www.reddit.com/user/SomeIDK)
-[Twitter.](https://twitter.com/Arkanan58188042)
-[Patreon Page.](https://www.patreon.com/ArkanPatreon
+[Reddit](https://www.reddit.com/user/SomeIDK).
+
+[Twitter](https://twitter.com/Arkanan58188042).
+
+[Patreon Page](https://www.patreon.com/ArkanPatreon).
