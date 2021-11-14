@@ -1,5 +1,4 @@
 ### Hi there 
-<h1></h1>
 #### My name is SlimeyMC
 
 ![.](https://cdn.discordapp.com/attachments/727886672909435002/744386758610911402/asddf.png)
