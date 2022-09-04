@@ -1,7 +1,7 @@
 ### Hi there 
 #### My name is SlimeyAr
-![.](lightbanner.png#gh-light-mode-only)
-![.](darkbanner.png#gh-dark-mode-only)
+![.](./lightbanner.png#gh-light-mode-only)
+![.](./darkbanner.png#gh-dark-mode-only)
 
 
 Different way
