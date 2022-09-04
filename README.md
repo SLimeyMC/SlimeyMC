@@ -1,6 +1,6 @@
 ### Hi there 
 #### My name is SlimeyAr
-
+![.](lightbanner.png#gh-light-mode-only)
 
 Different way
 
