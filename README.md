@@ -1,11 +1,10 @@
 ### Hi there 
-#### My name is SlimeyMC
+#### My name is SlimeyAr
 
-![.](https://cdn.discordapp.com/attachments/727886672909435002/744386758610911402/asddf.png)
+![.](https://cdn.discordapp.com/attachments/727886672909435002/1016015650231160934/lightbanner.png#gh-light-mode-only)
+![.](https://cdn.discordapp.com/attachments/727886672909435002/1016015602265096243/Darkbanner.png#gh-dark-mode-only)
 
-I am maker and freelancer (more like busylancer).
-Trying make models, textures and scenes.
-But also a cultureman with some acculturation from different jokeside.
+Different way
 
 ##### Social media:
 [Reddit](https://www.reddit.com/user/SomeIDK).
