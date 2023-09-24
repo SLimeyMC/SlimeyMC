@@ -1,7 +1,8 @@
 ### Hi there 
-#### My name is SlimeyMC
+#### My name is SlimeyAr
+![./lightbanner.png](https://github.com/SLimeyMC/SlimeyMC/blob/master/lightbanner.png#gh-light-mode-only)
+![./darkbanner.png](https://github.com/SLimeyMC/SlimeyMC/blob/master/Darkbanner.png#gh-dark-mode-only)
 
-![.](https://cdn.discordapp.com/attachments/727886672909435002/744386758610911402/asddf.png)
 
 I am freelancer (cant).
 Learning in process of making models, textures and scenes.
@@ -11,5 +12,3 @@ But also a cultureman with some acculturation from different jokeside.
 [Reddit](https://www.reddit.com/user/SomeIDK).
 
 [Twitter](https://twitter.com/Arkanan58188042).
-
-[Patreon Page](https://www.patreon.com/ArkanPatreon).
