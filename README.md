@@ -1,4 +1,5 @@
 [![Hey there! my name is slimeyar!](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=100&color=DEDAED&random=false&width=435&lines=Hi+there!;My+name+is+SlimeyAr!)](https://git.io/typing-svg#gh-light-mode-only)
+[![Hey there! my name is slimeyar!](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=100&color=824C9E&random=false&width=435&lines=Hi+there!;My+name+is+SlimeyAr!)](https://git.io/typing-svg#gh-dark-mode-only)
 ![./lightbanner.png](https://github.com/SLimeyMC/SlimeyMC/blob/master/lightbanner.png#gh-light-mode-only)
 ![./darkbanner.png](https://github.com/SLimeyMC/SlimeyMC/blob/master/Darkbanner.png#gh-dark-mode-only)
 
